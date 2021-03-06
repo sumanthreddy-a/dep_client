@@ -34,7 +34,7 @@
     "cbor": "^4.0.0",
     "dotenv": "^5.0.1",
     "express": "^4.16.3",
-    "mongoose": "^5.2.6",
+    "mongoose": "^5.11.16",
     "request": "^2.85.0",
     "sawtooth-sdk": "^1.0.1",
     "yargs": "^11.0.0"
